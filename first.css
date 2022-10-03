@@ -1,0 +1,20 @@
+p {
+    color: rgb(47, 70, 76);
+    font-size: 25px;
+  }
+
+  .h{
+    color:	#3949AB;
+    font-size: 35px;
+    font-family: sans-serif;
+  }
+
+  li{
+    color:	#3949AB;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+image{
+    width: 180px;
+}

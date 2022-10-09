@@ -1,0 +1,51 @@
+/*******************************Body******************************/
+body{
+    margin-left: 8px;
+    margin-right: 8px;
+}
+/**************************Container-start************************/
+.container{
+    background-color: beige;
+
+}
+
+button{
+    position: relative;
+    left: 660px;
+  
+}
+
+input{
+    position: relative;
+    left:685px;
+    
+}
+
+img{
+    position: relative;
+    left:600px;
+
+}
+/**************************Container-end************************/
+/**************************Box-Start************************/
+.box{
+    height: 125px;
+    padding: 10px;
+    margin: 5px;
+    float: left;
+    background-color: #b1cbbb;
+}
+
+.box-13{
+    width: 590px;
+}
+
+.box2{
+    width: 250px;
+}
+/**************************Box-end************************/
+
+p{
+    text-align: center;
+}
+
